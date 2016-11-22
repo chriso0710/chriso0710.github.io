@@ -21,7 +21,7 @@ The Blue marble has the following features:
 - works inline
 - easy command syntax, help text
 - shows maps from Openstreetmap/Mapbox with different zoom levels
-- does multi geocoding from different geo providers
+- does multi geocoding from different geo providers, with fail-over
 - asks for the users location and reverse it to address and What3words
 - converts address to latitude-longitude (DD or DMS) to What3words and reverse
 - outputs What3words addresses in all supported languages with direct links to the What3words map
