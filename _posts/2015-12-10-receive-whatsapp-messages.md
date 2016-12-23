@@ -70,7 +70,7 @@ Bye bye, yowsup. I am leaving. It really was a bumpy ride.
 Yowsup worked well for a year, but now it becoming practically useless. The amount of time I spent to try to keep my little yowsup client running is becoming ridiculous. My virtual phone number was blocked and I am giving up now. Whatsapp apprently became very good in detecting and blocking 3rd party clients. Lots of people got blocked now.
 
 I do not really understand Facebooks policy when they open up the Facebook Messenger with a [new bot API](https://developers.facebook.com/blog/post/2016/04/12/bots-for-messenger/) and at the same time are leaving Whatsapp behind. I really hope Whatsapp will someday publish a full business API, which makes it easier for us to connect to it. See
-(Whatsapp Blog)[https://blog.whatsapp.com/615/Making-WhatsApp-free-and-more-useful?l=en&set=yes]
+[Whatsapp Blog](https://blog.whatsapp.com/615/Making-WhatsApp-free-and-more-useful?l=en&set=yes)
 
 In the last couple of days I made a Telegram bot with Telegrams great API, Ruby and the [ruby telegram gem](https://github.com/atipugin/telegram-bot-ruby). That was easy, fun and the bot is working great. This was simply no comparison to my Whatsapp-yowsup experience.
 
