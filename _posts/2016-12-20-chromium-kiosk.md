@@ -30,7 +30,29 @@ Ansible uses a management user for ssh access and the standard user "pi" for aut
 
 You can find my Ansible playbooks and detailed instructions for running them on [Github](https://github.com/chriso0710/pikiosk){: .btn .btn--success}
 
-## How to find your Pis in an unknown network?
+## The core
+
+At the heart of the playbooks we set the autostart with the chrome url and restart the lightdm service.
+
+```yaml
+    tasks:
+
+    - name: Create LXDE autostart configuration
+      template:
+        src: "templates/autostart.j2"
+        dest: "/home/{{ autostart_user }}/.config/lxsession/LXDE-pi/autostart"
+      notify: Restart lightdm
+
+    handlers:
+
+    # sudo systemctl restart lightdm.service
+    - name: Restart lightdm
+      service:
+        name: lightdm
+        state: restarted
+```
+
+## Where are my Pis?
 
 Ansible needs the IP addresses of the hosts. Most networks we include the Pis in are using DHCP for address assignment. So how do you find your Pis after connecting them to a network? A simple nmap scan of port 22 on the Ansible management machine (which of course needs to be in the same network) helps:
 
