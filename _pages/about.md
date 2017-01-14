@@ -15,3 +15,21 @@ What I consider important: My family, sustainabilty, energy revolution.
 Things that annoy me: Unreliability, bad time- and self-management, SUVs.
 
 If you would like to know more about me and my skills just drop me a line.
+
+> When we are exploring the world from a place of discomfort, that is usually when we will be learning the most.
+<cite>@TheMinimalists</cite>{: .small}
+
+## Stats
+
+* 20+ years experience in IT
+* 280 customers of own software product in healthcare
+* 150.000+ pages CMS managed and operated
+* 1 product killed before launch
+* 10+ open source projects contributing to
+* 4.000.000+ social media messages processed via APIs
+* Dozens of presentations, workshops and talks made
+* 5 publications in professional journals
+* 3.5, relase since working with TYPO3
+* 2009, year since working with AWS/heroku
+* 4 marathons and half marathons run
+* ~3000 km on race bike per year

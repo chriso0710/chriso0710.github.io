@@ -89,6 +89,12 @@ Nmap done: 256 IP addresses (14 hosts up) scanned in 6.55 seconds
 The MAC address is good to know, too. We use the MAC address for identifying our Pis. They have the last 3 bytes of the MAC address labeled on them.
 The organization identifier of the Raspberry Pi foundation is B8:27:EB, which are the first 3 bytes.
 
+## Update January 2017 - Eddystone beacons
+
+The Pi 3 has Bluetooth builtin, which qualifies it as a BT beacon. These Pis can operate with Google's Eddystone protocol and advertise Eddystone URLs. This can be very useful for advertising voting pages and inviting a guest/participant to vote.
+
+The repository includes a playbook for setting up a Eddystone beacon with a single Ansible command. It uses [PyBeacon](https://github.com/nirmankarta/PyBeacon).
+
 ## Resources
 
 * [5Minutes - Server Security Essentials](https://github.com/chhantyal/5minutes)
