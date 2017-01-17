@@ -8,8 +8,7 @@ Consultant, full stack developer, devops engineer and speaker with 20+ years of 
 I am passionate about agile development, automation, open source and security, [twelve factor methodology](https://12factor.net/)
 and [REWORK](/rework). See my current [development stack](/stack).
 
-I am interested in minimalist lifestyle, photography, music, guitar playing, renewable energy, cooking.
-I like to travel, cycle, run, hike and climb.
+I am interested in minimalist lifestyle, photography, cooking, music, guitar playing. I like to travel, cycle, run, hike and climb.
 
 What I consider important: My family, sustainabilty, energy revolution.
 Things that annoy me: Unreliability, bad time- and self-management, SUVs.
