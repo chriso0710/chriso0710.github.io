@@ -11,7 +11,7 @@ title                    : "HAYVALLEY.IO Blog"
 title_separator          : "|"
 name                     : "Christian Ott"
 description              : "Trying to find the needle in the software haystack."
-url                      : ""
+url                      : "https://hayvalley.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : chriso0710/chriso0710.github.io
 teaser                   :
