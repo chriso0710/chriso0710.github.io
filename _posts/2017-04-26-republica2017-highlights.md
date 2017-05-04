@@ -3,6 +3,8 @@ title: My re:publica 2017 highlights
 permalink: /republica2017
 ---
 
+![Picture](/assets/images/rp16.jpg)
+
 I am very much looking forward to this years re:publica in Berlin. I am sure it will again be inspiring and exciting and a broad view beyond my daily business.
 
 These are my 10 personal highlights from my first detailed look at the huge schedule:
