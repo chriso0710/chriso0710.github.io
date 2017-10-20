@@ -13,7 +13,7 @@ name                     : "Christian Ott"
 description              : "Trying to find the needle in the software haystack."
 url                      : "https://hayvalley.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : chriso0710/chriso0710.github.io
+repository               : "chriso0710/chriso0710.github.io"
 teaser                   :
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 150
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Christian Ott"
   avatar           : /assets/images/co.jpg
-  bio              : "Developer * Consultant * Geek * REWORKer * Cyclist * Guitar apprentice * Father of 2 girls"
+  bio              : <p>Developer</p><p>Consultant</p><p>Geek</p><p>REWORKer</p><p>Cyclist</p><p>Minimalist</p><p>Guitar apprentice</p><p>Father of two girls</p>
   location         : "Germany"
   email            : "co@hayvalley.io"
   uri              :

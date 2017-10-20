@@ -1,4 +1,25 @@
 <script src="{{ '/assets/js/main.min.js' | absolute_url }}"></script>
+<script src="{{ '/assets/js/typed.min.js' | absolute_url }}"></script>
+
+<script>
+$(function(){
+    var typed = new Typed(".typed", {
+        stringsElement: '#typed-strings',
+        typeSpeed: 60,
+        backSpeed: 30,
+        loop: false,
+        onComplete: function(self) {
+            setTimeout(function(){
+                typed.destroy();
+                var allbio = $.map($("#typed-strings p"), function(item) {
+                    return $(item).text();
+                }).join(", ");
+                $('.typed').text(allbio);
+            }, 2000);
+        }
+    });
+});
+</script>
 
 {% include analytics.html %}
 {% include /comments-providers/scripts.html %}
