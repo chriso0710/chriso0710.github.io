@@ -25,10 +25,10 @@ If you would like to know more about me and my skills just drop me a line.
 * 150.000+ pages CMS managed and operated
 * 1 product killed before launch
 * 10+ open source projects contributing to
-* 4.000.000+ social media messages processed via APIs
+* Millions of social media messages processed via APIs
 * Dozens of presentations, workshops and talks made
 * 5 publications in professional journals
 * 3.5, relase since working with TYPO3
 * 2009, year since working with AWS/heroku
 * 4 marathons and half marathons run
-* ~3000 km on race bike per year
+* ~3000 km on racing bicycle per year

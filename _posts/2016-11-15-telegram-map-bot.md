@@ -1,5 +1,5 @@
 ---
-title: Creating a map and geocoding bot for Telegram
+title: Creating a map and geocoding bot for Telegram (Part 1)
 ---
 
 I love [Telegram](https://telegram.org/) and it's [bot API](https://core.telegram.org/bots), which is designed brilliantly. The API could very well serve as an example for other messengers (Yes, Whatsapp, I am looking at you!).
