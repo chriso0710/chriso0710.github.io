@@ -14,6 +14,7 @@ To make the frame more solid and to get the depth needed for the hardware (mirro
 
 Total size of the mirror including the frame is 55 x 79 cm. I constructed a wire suspension to hang the mirror on the wall.
 I carefully covered the back of the mirror completely with black cardboard, to prevent any light shining through from behind.
+No ugly cables. The whole construction gets it's power from a wall outlet behind the mirror. 
 
 ![Picture](/assets/images/magicmirror/IMG_9210.jpg)
 
@@ -53,6 +54,10 @@ Supplying power to the Pi AND the TFT display at the same time turned out to be 
 
 ![Picture](/assets/images/magicmirror/IMG_9230.jpg)
 ![Picture](/assets/images/magicmirror/IMG_9231.jpg)
+
+## The future
+
+It certainly would be very nice to have a motion detection sensor behind the mirror, which would then turn on the display. Needs to be tested but should be possible in build phase 2. 
 
 ## List of parts
 
