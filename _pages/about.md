@@ -32,4 +32,4 @@ If you would like to know more about me and my skills just drop me a line.
 * 3.5, relase since working with TYPO3
 * 2009, year since working with AWS/heroku
 * 4 marathons and half marathons run
-* 5-6000 km on racing bicycle per year
+* 8000+ km on the bicycle per year
